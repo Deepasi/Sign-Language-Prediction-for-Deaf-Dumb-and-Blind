@@ -41,10 +41,14 @@ This application is a real-time American Sign Language (ASL) recognition system 
    - N-gram model (trigrams) trained on Brown Corpus
    - Used for next-word prediction
    - Automatically trained if not present
+
+### Handacquisation
+
+
   
-### Actual usage
-![Before Autocorrection](path/to/before.png)
-![After Autocorrection](path/to/after.png)
+### Autocorrection
+![Before Autocorrection](path/to/Before.png)
+![After Autocorrection](path/to/After.png)
 
 ## Installation
 
