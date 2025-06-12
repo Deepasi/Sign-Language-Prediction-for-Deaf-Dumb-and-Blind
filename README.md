@@ -42,13 +42,6 @@ This application is a real-time American Sign Language (ASL) recognition system 
    - Used for next-word prediction
    - Automatically trained if not present
 
-## Handacquisation
-![Handacquisation](Alphabet pred.png)
-
-  
-### Autocorrection
-![Before Autocorrection](path/to/Before.png)
-![After Autocorrection](path/to/After.png)
 
 ## Installation
 
@@ -83,10 +76,29 @@ This application is a real-time American Sign Language (ASL) recognition system 
 4. Place the ASL model (`best_model.h5`) in the project directory
 
 ## Usage
-Run the application:
-```bash
-python asl_app.py
-```
+### Handacquisation
+
+Step 1 :.
+
+![Hand Acquisition](HandAcquise.png)
+
+### Alphabet Prediction
+
+Step 2 :.
+
+![Alphabet Prediction](Alphabet%20pred.png)
+  
+### Autocorrection
+
+Step 3 :.
+
+![Before Autocorrection](Before.png)
+
+
+
+Step 4 :.
+
+![After Autocorrection](After.png)
 
 
 ### Interface Guide
