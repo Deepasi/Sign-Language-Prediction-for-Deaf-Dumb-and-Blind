@@ -41,6 +41,10 @@ This application is a real-time American Sign Language (ASL) recognition system 
    - N-gram model (trigrams) trained on Brown Corpus
    - Used for next-word prediction
    - Automatically trained if not present
+  
+### Actual usage
+![Before Autocorrection](path/to/before.png)
+![After Autocorrection](path/to/after.png)
 
 ## Installation
 
@@ -79,6 +83,7 @@ Run the application:
 ```bash
 python asl_app.py
 ```
+
 
 ### Interface Guide
 - **Camera Feed**: Shows live video with hand detection
