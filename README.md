@@ -126,6 +126,7 @@ Step 4 :.
 - Input: 55x55 grayscale images of hands
 - Output: Probability distribution over 26 letters (A-Z)
 - Confidence threshold adjustable via slider (default: 0.80)
+- With an accuracy of 0.95
 
 ### Language Model
 - Trained on Brown Corpus
