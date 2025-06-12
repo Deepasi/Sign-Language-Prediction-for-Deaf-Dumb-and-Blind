@@ -42,8 +42,8 @@ This application is a real-time American Sign Language (ASL) recognition system 
    - Used for next-word prediction
    - Automatically trained if not present
 
-### Handacquisation
-
+## Handacquisation
+![Handacquisation](Alphabet pred.png)
 
   
 ### Autocorrection
